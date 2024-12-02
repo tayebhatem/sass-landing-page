@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const Marker = ({ fill }:{fill:string}) => {
     return (

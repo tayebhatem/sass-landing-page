@@ -1,5 +1,5 @@
 import clsx from 'clsx'
-import React, { ReactNode } from 'react'
+import  { ReactNode } from 'react'
 import Marker from './Marker'
 
 const Button = ({icon,href,markerFill,onClick,children}:{icon:string,href:string,markerFill:string,onClick:()=>void,children:ReactNode}) => {
